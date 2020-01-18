@@ -6,6 +6,8 @@ In this tutorial you will learn how to prepare geographical data for time series
 * Adding time data points to the set of grid data and filling in the gaps where no crimes occurred.
 * Importing the data into R
 * Running an XGBoost model to determine where crimes will occur on a specific day
+
+At the end, we will discuss the next steps for making the predictions more usable to end users.
  
 ## Getting Started
 
@@ -24,7 +26,7 @@ If you just want to view the notebook, click on the ipynb file and GitHub will d
 
 ## Deployment
 
-When running the code on your own system, make sure to point the SQL imports to the correct directory and the R imports to the correct SQL server installation.
+When running the code on your own system, make sure to point the SQL imports to the correct directory and the R imports to the correct SQL Server location.
 
 ## Authors
 
