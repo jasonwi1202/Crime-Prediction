@@ -1,4 +1,4 @@
-# Crime Prediction
+# Introduction to Geographical Time Series Prediction with Crime Data in R, SQL, and Tableau
 
 In this tutorial you will learn how to prepare geographical data for time series predictions. When reviewing geographical data, you can group data points together in a grid over time to allow for easy modeling. This does create an issue with the size of the data. A five year crime data set can easily consist of 250,000 records. Once that is extrapolated into a time series grid on a map, it can easily hit 75 million records. When dealing with data of this size, it is helpful to use a database to cleanse the data before sending it to our script. The steps we will follow are listed below:
 * Importing data into a SQL Server database.
