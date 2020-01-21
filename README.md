@@ -22,7 +22,8 @@ Before beginning this tutorial, you will need:
 * R Studio, Jupyter notebook, or other IDE to interface with R
 * A general working knowledge of SQL and R
 
-If you just want to view the notebook, click on the ipynb file and GitHub will display the contents within the browser for you.
+If you just want to view the notebook, click on the ipynb file and GitHub will display the contents within the browser for you. The Tableau dashboard can be found here:
+* [Tableau Dashboard](https://public.tableau.com/profile/jason.wittenauer#!/vizhome/CrimePrediction_15793180506290/CrimeMap)
 
 ## Deployment
 
